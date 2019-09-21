@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-# encoding = utf-8
 import tensorflow as tf
 import numpy as np
 from tensorflow.contrib.layers.python.layers import initializers
